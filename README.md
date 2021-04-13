@@ -21,7 +21,7 @@ Uses Pickle to Save data points to txt file https://docs.python.org/3/library/pi
 Uses Time for breaks https://docs.python.org/3/library/time.html
 --------------------------------------------------------
 And Uses OS to clear previous text https://docs.python.org/3/library/os.html
---------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 Tutorial
 1. Hover Over The Camera Logo Button With Your Mouse And Press Enter
 2. Hover Over the Take Picture Button With Your Mouse And Press Enter
@@ -30,3 +30,4 @@ Tutorial
 5. after pressing on the short cut button hover over your person and press enter
 6. after pressing on your person Hover over your send button and press enter
 7. After that go back to the picture page and press enter it should run thrugh and then run again at 1 pm
+----------------------------------------------------------------------------------------------------------
