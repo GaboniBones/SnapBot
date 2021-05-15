@@ -4,7 +4,7 @@ run the insataller to use it!
 If You are Going to make a youtube video
 Please Credit me at https://www.youtube.com/channel/UCCHiBQ3uTywayYzzdj10JUA
 Yes a 12 year old coded this it took me about 2 weeks
-Youtube Video tutorial going up soon
+Tutorial: https://www.youtube.com/watch?v=UIC8Y-1GS8A
 --------------------------------------------------------
 Modules Used:
 --------------------------------------------------------
